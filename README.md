@@ -3,11 +3,11 @@
 <p>Welcome to my <b>Github Profile </b>! </br> I'm Fahri Rahmad E, Fullstack Web Developer from <img src="https://cdn-icons-png.flaticon.com/512/323/323372.png" width="20" style="margin: 0; padding: 0;"/> <b>Batam, Indonesia</b>.</p>
 
 <p>
-<a target="_blank" href="https://ziidev.my.id/">
-<img alt="My Portfolio Website" src="">
+<a target="_blank" href="">
+<img alt="My Portfolio Website" src="https://img.shields.io/badge/My Portfolio-FCC624?style=for-the-badge&logoColor=black">
 </a>
-<a target="_blank" href="https://youtube.com/channel/UCOuOELNabiwwlFZlGB6VsDA">
-<img alt="My Projects" src="">
+<a target="_blank" href="">
+<img alt="My Projects" src="https://img.shields.io/badge/My Projects-FF2D20?style=for-the-badge&logoColor=black">
 </a>
 </p>
 
