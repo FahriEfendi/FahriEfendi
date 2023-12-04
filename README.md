@@ -81,4 +81,4 @@
 ![Pauzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahriefendi&hide=contribs,prs)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahriefendi&layout=compact)
 
-![](https://komarev.com/ghpvc/?username=muhammadpauzi)
+![](https://komarev.com/ghpvc/?username=fahriefendi)
